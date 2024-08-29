@@ -1,16 +1,19 @@
-## Hi there 👋
+# aleff-ferreira/README.md
 
-<!--
-**aleff-ferreira/aleff-ferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m @aleff-ferreira
 
-Here are some ideas to get you started:
+🔬 **About Me:**
+Biomedical Scientist with a PhD in Biomolecules from UNESP. My research focuses on the interaction of toxins with biomolecules, especially in therapeutic contexts for neglected diseases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:**
+- Molecular dynamics and computational modeling.
+
+💼 **Looking to Collaborate On:**
+- Bioactive compound discovery and molecular docking projects.
+
+📫 **Reach Me:**
+- [LinkedIn](https://www.linkedin.com/in/aleff-ferreira-francisco/)
+- [Lattes](http://lattes.cnpq.br/6740177714949876)
+
+⚡ **Fun Fact:**
+I enjoy long-distance running and calisthenics in my free time.
