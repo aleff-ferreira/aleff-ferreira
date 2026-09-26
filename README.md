@@ -16,6 +16,3 @@ Biomedical Scientist with a PhD in Biomolecules from UNESP, specializing in the 
 📫 **Connect with Me:**  
 - [LinkedIn](https://www.linkedin.com/in/aleff-ferreira-francisco/)
 - [Lattes](http://lattes.cnpq.br/6740177714494876)
-
-⚡ **Fun Fact:**  
-I'm an avid long-distance runner and calisthenics enthusiast.
